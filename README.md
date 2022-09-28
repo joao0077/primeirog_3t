@@ -1,6 +1,5 @@
-# terceiro trimestre
+# Terceiro Trimestre
 
-## indentificaçao 
-joao victor gomes benicio de sa n°14
-
-## conteudo -HTML-CSS-JAVA SCRIPT
+## identificação
+Aluna: Gabrielly de Moura Ribeiro número: 39
+## conteudo - HTML - CSS - JavaScript
