@@ -1,6 +1,7 @@
 # Terceiro Trimestre
 
-## identificação
-Aluno: joao victor gomes benicio de sa : 14
+## Identificação
+Jesus Maringá - Nr. 50
 
-## conteudo - HTML - CSS - JavaScript
+## Conteúdo
+HTML, CSS e JavaScript
