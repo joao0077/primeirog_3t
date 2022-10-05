@@ -19,3 +19,28 @@ function escreva (){
 
 }
 
+
+let lista = ["terra","marte","saturno","jupiter","venus"];
+
+function mostralista(){
+    document.write("tamanho da lista:" + lista.length + "<br>");
+    for(let i = 0; i < lista.length; i++){
+    document.write("planeta" + lista[i] + "<br>");
+  }
+
+}
+ 
+function repete (){
+for(let i = 1; j <=10; j++){
+document.write("tabuada do " + i + "<br>")
+for(let i = 1; j <=10; j++){
+    document.write("tabuada do " + i + "<br>")
+
+}
+
+}
+
+
+
+
+}
