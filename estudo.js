@@ -44,3 +44,11 @@ for(let i = 1; j <=10; j++){
 
 
 }
+function total(){
+    let c = document.getElementById("capital").value;
+    let j = document.getElementById("juros").value;
+    let t = document.getElementById("meses").value;
+    let m =
+    let m = c * (1 + (j/100));
+    document.write("montante:" + m);
+}
