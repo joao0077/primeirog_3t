@@ -52,3 +52,14 @@ function total(){
     let m = c * (1 + (j/100));
     document.write("montante:" + m);
 }
+
+
+
+
+function soma () {
+    let val1 = document . getElementById ("v1") . value ;
+     let val2 = document . getElementById ("v2") . value ;
+     let r = Number ( val1 ) + Number ( val2 ) ;
+     document . getElementById (" resultado ") . innerHTML = r ;
+    
+     }
